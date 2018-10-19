@@ -1,0 +1,8 @@
+[package]
+name = "seiki-to-twig"
+version = "0.1.0"
+authors = ["ButteryCrumpet <crumpetybumpety@gmail.com>"]
+
+[dependencies]
+walkdir = "2"
+regex = "1"
